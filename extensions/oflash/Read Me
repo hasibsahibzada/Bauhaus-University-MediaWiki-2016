@@ -1,0 +1,16 @@
+OFlash MediaWiki extension
+by Fergal Hainey
+possibly of Orifice Software
+http://bfot.co.uk/orifice
+
+For a manual please see http://bfot.co.uk/orifice/oflash/manual.html
+
+A Mediawiki extension for embedding flash files with standards compliance, no javascript, prompts popular browsers for missing Flash plug-ins and has a built in media player for FLV or H.264 media.
+
+OFlash uses the media player Flash file from Jeroen Wijering's FLV Media Player (http://www.jeroenwijering.com/). JW FLV Media Player uses the Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported license (http://creativecommons.org/licenses/by-nc-sa/3.0/). This makes it free for non-commerical use under the terms of the license. If your wiki is commercial, you probably need to buy a commercial license from Jeroen Wijering (http://www.jeroenwijering.com/?page=order).
+
+
+Version History
+
+1.0.0 - 20/11/08 (project actually finished mid 2008. Couldn't be arsed to write a Read Me.)
+-Initial release

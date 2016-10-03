@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"antibot-desc": "Simpel framework voor controle op spambots en trigger payloads"
+}

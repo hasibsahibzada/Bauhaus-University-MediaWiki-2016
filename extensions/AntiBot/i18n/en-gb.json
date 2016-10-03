@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Chase me ladies, I'm the Cavalry"
+		]
+	},
+	"antibot-desc": "Simple framework for spambot checks and trigger payloads"
+}

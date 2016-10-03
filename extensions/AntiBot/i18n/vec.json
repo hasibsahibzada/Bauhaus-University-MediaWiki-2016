@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Candalua"
+		]
+	},
+	"antibot-desc": "Un semplice framework par el controlo dei spambot e par el payload dei trigger"
+}

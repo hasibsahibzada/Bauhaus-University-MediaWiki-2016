@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Angpradesh"
+		]
+	},
+	"antibot-desc": "सामान्य फ्रेमवर्क स्पैमबौट जाँचै आरू ट्रीगर पेलोड करै लेली\nSimple framework for spambot checks and trigger payloads"
+}

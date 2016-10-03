@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Klutzy",
+			"Kwj2772",
+			"Yknok29",
+			"아라"
+		]
+	},
+	"antibot-desc": "스팸봇 확인과 트리거 페이로드에 대한 간단한 프레임워크"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vito Genovese"
+		]
+	},
+	"acct_creation_global_hard_throttle_hit": "Kayıt flood saldırılarını azaltmak için hesap oluşturma bir süre için otomatik olarak askıya alındı.\nLütfen birkaç dakika bekleyin ve yeniden göndermek için tarayıcınızdaki 'yeniden yükle' seçeneğine tıklayın.",
+	"userthrottle-desc": "Kullanıcı oluşturmayı önler"
+}

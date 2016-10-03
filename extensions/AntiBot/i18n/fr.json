@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Grondin",
+			"Louperivois",
+			"Verdy p"
+		]
+	},
+	"antibot-desc": "Environnement simple de vérification contre les robots spammeurs et les contenus à déclenchement conditionnel automatique"
+}

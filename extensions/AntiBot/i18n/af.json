@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj"
+		]
+	},
+	"antibot-desc": "Eenvoudige raamwerk vir die kontrole van spambots en trigger payloads"
+}

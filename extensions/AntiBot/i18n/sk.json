@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Helix84"
+		]
+	},
+	"antibot-desc": "Jednoduchý framework na kontrolu spambotov a zachytávanie špecifických úprav"
+}

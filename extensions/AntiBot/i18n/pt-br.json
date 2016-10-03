@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Brunoy Anastasiya Seryozhenko",
+			"Jesielt"
+		]
+	},
+	"antibot-desc": "Painel de controle simples para checagem de spambots e trigger payloads"
+}

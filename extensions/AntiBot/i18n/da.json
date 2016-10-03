@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jan Friberg"
+		]
+	},
+	"antibot-desc": "Simpel struktur for kontrol af spamrobotter"
+}

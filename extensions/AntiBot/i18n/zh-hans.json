@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"PhiLiP",
+			"Shinjiman"
+		]
+	},
+	"antibot-desc": "防止垃圾链接机器人检查并触发酬载的简单框架"
+}

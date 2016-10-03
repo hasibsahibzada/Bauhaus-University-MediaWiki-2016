@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sanbec"
+		]
+	},
+	"antibot-desc": "Entorno sencillo para las comprobaciones de bots de spam y la activación de contenidos de descarga condicional automatizada."
+}

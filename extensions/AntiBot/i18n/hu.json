@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Terik"
+		]
+	},
+	"antibot-desc": "Egyszerű szerkezet spambot ellenőrzésre és trigger payload-ra"
+}

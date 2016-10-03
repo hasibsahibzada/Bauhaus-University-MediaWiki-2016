@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mormegil"
+		]
+	},
+	"antibot-desc": "Jednoduchá kostra systému pro detekci spamujících botů a ochranu před nimi"
+}

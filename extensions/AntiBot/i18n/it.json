@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"BrokenArrow"
+		]
+	},
+	"antibot-desc": "Semplice framework per le verifiche anti-spambot e l'attivazione di specifici payload."
+}

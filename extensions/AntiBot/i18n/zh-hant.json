@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alexsh",
+			"Shinjiman",
+			"Cwlin0416"
+		]
+	},
+	"antibot-desc": "用來檢查垃圾訊息機器人及有效負載觸發器的簡易框架"
+}

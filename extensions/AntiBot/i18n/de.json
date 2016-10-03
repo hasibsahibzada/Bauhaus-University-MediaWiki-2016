@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"Raimond Spekking"
+		]
+	},
+	"antibot-desc": "Stellt ein einfaches System zum Schutz vor Spambots und Payloads bereit"
+}

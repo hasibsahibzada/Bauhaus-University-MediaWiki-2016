@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joseph"
+		]
+	},
+	"antibot-desc": "Spambot kontrolleri ve tetikleyici yükler için basit bir çerçeve"
+}

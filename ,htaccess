@@ -1,0 +1,20 @@
+# By Hasibullah sahibzada
+# Contact: hasibullah@sahibzada.org
+
+# some guide
+# https://www.mediawiki.org/wiki/Manual:Short_URL
+
+# enable the rewriter
+RewriteEngine On
+    RewriteRule phpinfo\.php - [L]
+
+# rewrite subdomain web to www
+	#RewriteCond %{HTTP_HOST} ^web\.uni\-weimar\.de$ [NC]
+	#RewriteRule ^(.*)$ http://www.uni-weimar.de/medien/wiki/$1 [R=301,L]
+
+# anything under /wiki is treated as an article title
+RewriteRule ^(extensions|images|skins)/ - [L] # so skins and images work
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ %{DOCUMENT_ROOT}/kunst-und-gestaltung/wiki/index.php [L]

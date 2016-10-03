@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Oxyzen"
+		]
+	},
+	"antibot-desc": "Simple nga framework para sa pag-usisa sang spambots kag kag naga-trigger payloads"
+}

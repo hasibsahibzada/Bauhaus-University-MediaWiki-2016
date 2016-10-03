@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mormegil"
+		]
+	},
+	"antibot-desc": "Description of the [[mw:Extension:AntiBot|AntiBot]] MediaWiki extension (to be displayed at [[Special:Version]])"
+}

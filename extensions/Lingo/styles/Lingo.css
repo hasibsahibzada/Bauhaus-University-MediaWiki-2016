@@ -1,0 +1,80 @@
+/*
+ * Stylesheet for the markup of glossary terms in wiki pages.
+ *
+ * This file is part of the MediaWiki extension Lingo.
+ *
+ * @copyright 2011 - 2016, Stephan Gambke
+ * @license   GNU General Public License, version 2 (or any later version)
+ *
+ * The Lingo extension is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by the Free
+ * Software Foundation; either version 2 of the License, or (at your option) any
+ * later version.
+ *
+ * The Lingo extension is distributed in the hope that it will be useful, but
+ * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+ * FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ *
+ * @author Stephan Gambke
+ *
+ * @file
+ * @ingroup Lingo
+ */
+
+.mw-lingo-tooltip {
+	position: relative;
+}
+
+.mw-lingo-tooltip-abbr {
+	border-bottom: 1px dotted #bbbbff;
+	cursor:        default;
+}
+
+.mw-lingo-tooltip-abbr:hover {
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+.mw-lingo-tooltip-tip {
+	display:               none;
+
+	/* qtip-default */
+	border-width:          1px;
+	border-style:          solid;
+
+	/* qtip shadow */
+	-webkit-box-shadow:    1px 1px 3px 1px rgba(0, 0, 0, 0.15);
+	-moz-box-shadow:       1px 1px 3px 1px rgba(0, 0, 0, 0.15);
+	box-shadow:            1px 1px 3px 1px rgba(0, 0, 0, 0.15);
+
+	/* qtip light */
+	background-color:      white;
+	border-color:          #e2e2e2;
+	color:                 #454545;
+
+	/* qtip rounded */
+	-moz-border-radius:    5px;
+	-webkit-border-radius: 5px;
+	border-radius:         5px;
+}
+
+.mw-lingo-tooltip-definition {
+	display: block;
+	padding: .5ex 0;
+}
+
+/* Style for JS disabled browsers*/
+.mw-lingo-tooltip:hover .mw-lingo-tooltip-tip {
+	display:   block;
+
+	position:  absolute;
+	top:       1.5em;
+	left:      0;
+
+	padding:   5px 9px;
+	z-index:   15000;
+	font-size: smaller;
+}

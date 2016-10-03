@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Malafaya"
+		]
+	},
+	"antibot-desc": "Infra-estrutura simples para verificações de \"spambots\" e cargas despoletadas"
+}
